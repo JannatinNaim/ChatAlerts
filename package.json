@@ -1,0 +1,57 @@
+{
+  "name": "chatalerts",
+  "version": "0.0.0-alpha-0.0.1",
+  "description": "Makes useful noises.",
+  "homepage": "https://jannatinnaim.com/ChatAlerts",
+  "author": {
+    "name": "Jannatin Naim",
+    "email": "contact.jannatinnaim@gmail.com",
+    "url": "https://jannatinnaim.com/"
+  },
+  "keywords": [
+    "ChatAlerts",
+    "JannatinNaim"
+  ],
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JannatinNaim/ChatAlerts/"
+  },
+  "bugs": {
+    "email": "contact.jannatinnaim@gmail.com",
+    "url": "https://github.com/JannatinNaim/ChatAlerts/issues/"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "sass": "^1.53.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
