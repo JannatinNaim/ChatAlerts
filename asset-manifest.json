@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ChatAlerts/static/css/main.31d6cfe0.css",
+    "main.js": "/ChatAlerts/static/js/main.fed72d57.js",
+    "index.html": "/ChatAlerts/index.html",
+    "main.fed72d57.js.map": "/ChatAlerts/static/js/main.fed72d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fed72d57.js"
+  ]
+}
